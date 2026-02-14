@@ -1,54 +1,54 @@
-<h1 align="left">Hey  What's up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+<p align="center">
+  My name is <b>Raditya Bintang Wijaya</b><br>
+  Student at <b>SMK Taruna Bhakti</b>, Depok
+</p>
 
-<p align="left">My name is Raditya Bintang Wijaya and I'm a Student At SMK Taruna Bhakti, from Depok</p>
+---
 
-###
+<h2 align="left">🚀 About Me</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">
+📚 I'm currently learning <b>Express.js</b><br>
+🎯 Focused on becoming a Fullstack Developer<br>
+🎲 Fun fact: I'm lucky 🍀
+</p>
 
-###
+---
 
-<p align="left">📚 I'm currently learning EXPRESS.JS<br>🎲 Fun fact: i'm lucky</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">🛠 I Code With</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" />
 </div>
 
+---
 
-<div>
-  <a href="[https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/raditya-bintang-wijaya-b7b139339/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+<h2 align="left">🌐 Connect With Me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/raditya-bintang-wijaya-b7b139339/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
-  <a href="[https://instagram.com/rdtyabntng_](https://www.instagram.com/rdtyabntng_/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.instagram.com/rdtyabntng_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
-  <a href="radityabintang2202@gmacom">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  <a href="mailto:radityabintang2202@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
-
-
-###

@@ -54,11 +54,24 @@
 </div>
 
 ---
-
-<h3 align="left">🔥   My Stats :</h3>
-
----
+<h3 align="center">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pizzanathea=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
 </div>
+
+<br>
+
+<div align="center">
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true" height="200" />
+
+</div>
+

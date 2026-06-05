@@ -1,76 +1,77 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+# Hey 👋 What's Up?
 
 <p align="center">
-  My name is <b>Raditya Bintang Wijaya</b><br>
-  Student at <b>SMK Taruna Bhakti</b>, Depok
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Raditya+Bintang+Wijaya;Fullstack+Developer+Enthusiast;SMK+Taruna+Bhakti+Student" />
+</p>
+
+<p align="center">
+  <b>💻 Fullstack Developer Enthusiast</b><br>
+  📍 Depok, Indonesia
 </p>
 
 ---
 
-<h2 align="left">🚀 About Me</h2>
+## 🚀 About Me
+
+* 📚 Currently learning **Express.js** & Backend Development
+* 🌱 Exploring **Next.js**, **React**, and REST APIs
+* 🎯 Goal: Become a Professional Fullstack Developer
+* ⚡ Fun Fact: I'm lucky 🍀
+
+---
+
+## 🛠 Tech Stack
 
 <p align="left">
-📚 I'm currently learning <b>Express.js</b><br>
-🎯 Focused on becoming a Fullstack Developer<br>
-🎲 Fun fact: I'm lucky 🍀
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-<h2 align="left">🛠 I Code With</h2>
+## 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<h2 align="left">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/raditya-bintang-wijaya-b7b139339/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/rdtyabntng_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="mailto:radityabintang2202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
-<h3 align="center">🔥 My Stats</h3>
 
-<div align="center">
+## 🎯 Current Focus
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+```txt
+📖 Learning Express.js
+⚙️ Building REST API
+🔐 JWT Authentication
+🗄️ MySQL Database
+🚀 Fullstack Web Development
+```
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+---
 
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true" height="200" />
-
-</div>
-
+<p align="center">
+  <i>"Code, Learn, Build, Repeat."</i> 🚀
+</p>

@@ -114,15 +114,3 @@
 </p>
 
 ---
-
-## 💡 Developer Quote
-
-<p align="center">
-  <i>"Learning today, building tomorrow."</i>
-</p>
-
----
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>

@@ -24,53 +24,105 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express" />
 </p>
 
-### Databases & Backend Services
+### 🗄️ Databases & Backend Services
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
-### Tools & Runtime
+### ⚙️ Tools & Runtime
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" />
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-```txt
-📱 React Native (Expo)
+<p>
+  <b>📱 React Native (Expo)</b>
+</p>
 
-📚 Currently Learning
-TypeScript
-Express.js REST API
-JWT Authentication
-MySQL Database
-MongoDB
-Supabase
-React Native Expo
-Clean Code & Project Structure
+---
 
-🌐 Connect With Me
-<p> <a href="https://www.linkedin.com/in/raditya-bintang-wijaya-b7b139339/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/rdtyabntng_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:radityabintang2202@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+## 📚 Currently Learning
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true"/> </p>
+* TypeScript
+* Express.js REST API
+* JWT Authentication
+* MySQL Database
+* MongoDB
+* Supabase
+* React Native Expo
+* Clean Code & Project Structure
 
-<p align="center"> <b>💡 Learning today, building tomorrow.</b> </p> ```
+---
+
+## 🎯 Goals
+
+* 🚀 Become a Fullstack Developer
+* 🧠 Improve Backend Development Skills
+* 🔐 Build secure applications with Authentication & Authorization
+* 🗄️ Gain deeper experience with SQL & NoSQL databases
+* 📱 Build production-ready mobile applications
+* 💡 Keep learning and building real-world projects
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/raditya-bintang-wijaya-b7b139339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/rdtyabntng_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:radityabintang2202@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+  <i>"Learning today, building tomorrow."</i>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>

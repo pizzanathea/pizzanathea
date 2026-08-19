@@ -36,6 +36,12 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express" />
 </p>
 
+### Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+</p>
+
 ### Tools & Runtime
 
 <p>

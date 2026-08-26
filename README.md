@@ -2,8 +2,6 @@
 
 I'm a **Full-Stack Web & Mobile Developer** who enjoys building modern, responsive, and user-friendly applications.
 
-I mainly work with **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and React Native**. I'm also familiar with databases such as **MySQL, MongoDB, and Supabase**.
-
 Currently, I'm focused on improving my development skills, building real-world projects, and exploring new technologies.
 
 > 💻 Code • 🚀 Build • 🧠 Learn • 🔥 Repeat
@@ -18,8 +16,3 @@ Currently, I'm focused on improving my development skills, building real-world p
 ![](https://github-readme-stats.shion.dev/api?username=pizzanathea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=pizzanathea&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pizzanathea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=pizzanathea&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

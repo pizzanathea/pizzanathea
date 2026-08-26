@@ -1,4 +1,14 @@
+# 👋 Hi, I'm Raditya Bintang Wijaya
 
+I'm a **Full-Stack Web & Mobile Developer** who enjoys building modern, responsive, and user-friendly applications.
+
+I mainly work with **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and React Native**. I'm also familiar with databases such as **MySQL, MongoDB, and Supabase**.
+
+Currently, I'm focused on improving my development skills, building real-world projects, and exploring new technologies.
+
+> 💻 Code • 🚀 Build • 🧠 Learn • 🔥 Repeat
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdtyabtng_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raditya Bintang Wijaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radityabintangwiijaya29@gmail.com) 
 

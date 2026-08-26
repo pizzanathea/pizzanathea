@@ -1,116 +1,22 @@
-# Hey 👋 I'm Raditya Bintang Wijaya
+import { DisplayBlock } from '#/components/atoms/display-block';
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Vocational+High+School+Student;Frontend+%26+Backend+Developer;Always+Learning+New+Things" />
-</p>
+import { templates } from '#/resources';
+import { CanvasSection } from '#/types';
+import { CanvasSection, PanelsEnum } from '#/types';
 
-<p align="center">
-  🎓 Student at <b>SMK Taruna Bhakti Depok</b><br>
-  💻 Passionate about Web & Mobile Development
-</p>
+const MAX_TEMPLATES_DISPLAY = 8;
 
----
-
-## 🚀 About Me
-
-* 🎓 Student at **SMK Taruna Bhakti Depok**
-* 🌱 Currently learning **Backend Development** with Express.js
-* 💻 Building web applications using **Next.js**, **React**, and **TypeScript**
-* 📱 Exploring mobile development with **React Native Expo**
-* 🎯 Goal: Become a Fullstack Developer
-* 🍀 Fun Fact: I believe luck comes from preparation and consistency
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express" />
-</p>
-
-### 🗄️ Databases & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
-</p>
-
-### ⚙️ Tools & Runtime
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-<p>
-  <b>📱 React Native (Expo)</b>
-</p>
-
----
-
-## 📚 Currently Learning
-
-* TypeScript
-* Express.js REST API
-* JWT Authentication
-* MySQL Database
-* MongoDB
-* Supabase
-* React Native Expo
-* Clean Code & Project Structure
-
----
-
-## 🎯 Goals
-
-* 🚀 Become a Fullstack Developer
-* 🧠 Improve Backend Development Skills
-* 🔐 Build secure applications with Authentication & Authorization
-* 🗄️ Gain deeper experience with SQL & NoSQL databases
-* 📱 Build production-ready mobile applications
-* 💡 Keep learning and building real-world projects
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/raditya-bintang-wijaya-b7b139339/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/rdtyabntng_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:radityabintang2202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+@@ -41,9 +41,10 @@ export function Welcome() {
+.map(({ template }, index) => (
+<button
+key={index}
+                onClick={() =>
+                  actions.canvas.preview.sections(template as CanvasSection[])
+                }
+                onClick={() => {
+                  actions.canvas.preview.sections(template as CanvasSection[]);
+                  actions.panel.right.show(PanelsEnum.TEMPLATES);
+                }}
+>
+<DisplayBlock.Container>
+<DisplayBlock.Content>

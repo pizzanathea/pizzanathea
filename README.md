@@ -65,28 +65,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 LibTech
-
-A digital library platform for managing books, users, and library activities.
-
-**Tech Stack**
-
-`Next.js` · `React` · `React Native` · `Expo` · `Node.js` · `Express.js` · `MySQL`
-
----
-
-### 🏋️ GymCare
-
-A web and mobile application focused on gym management and fitness-related features.
-
-**Tech Stack**
-
-`React` · `Vite` · `Node.js` · `Express.js` · `React Native` · `Expo`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,60 +84,3 @@ A web and mobile application focused on gym management and fitness-related featu
 </div>
 
 ---
-
-## 🎧 Recently Played
-
-<div align="center">
-
-  <img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5"
-    alt="Spotify recently played"
-  />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake.svg"
-      alt="GitHub contribution snake"
-    />
-  </picture>
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=pizzanathea.pizzanathea"
-    alt="Profile views"
-  />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 🚀
-
-</div>

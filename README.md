@@ -1,26 +1,67 @@
-<div align="center">
+# Hi, I'm Raditya Bintang Wijaya 👋
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+### Full-Stack Web & Mobile Developer
 
-</div>
+I'm a developer who enjoys building modern web and mobile applications, exploring new technologies, and turning ideas into real-world projects.
 
-<br>
+---
 
-<div align="center">
+## 🚀 About Me
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza" alt="Profile views" />
+- 💻 Focused on **Full-Stack Web Development**
+- 📱 Interested in **Mobile App Development**
+- ⚡ Building applications with **React, Next.js, Node.js, and React Native**
+- 🗄️ Working with both **SQL and NoSQL databases**
+- 🎨 Interested in building clean and modern user interfaces
+- 🧠 Always learning and experimenting with new technologies
 
-</div>
+---
 
-<br>
+## 🧰 Tech Stack
 
-<div align="center">
+### 🌐 Frontend
 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
+</p>
 
-</div>
+### ⚙️ Backend
 
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+<p>
+  <strong>React Native · Expo</strong>
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 📚 LibTech
+
+A digital library platform built for managing books, users, and library activities.
+
+**Tech Stack:**
+
+`Next.js` · `React` · `React Native` · `Expo` · `Node.js` · `Express.js` · `MySQL`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -35,5 +76,52 @@
     height="150"
     alt="Most used languages"
   />
+
+</div>
+
+---
+
+## 🎧 Recently Played
+
+<div align="center">
+
+  <img
+    src="https://spotify-recently-played-readme.vercel.app/api?count=5"
+    alt="Spotify recently played"
+  />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg"
+    alt="Snake animation"
+  />
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza"
+    alt="Profile views"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
 
 </div>

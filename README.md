@@ -54,7 +54,7 @@
 </p>
 
 <p>
-  React Native · Expo
+  <strong>React Native · Expo</strong>
 </p>
 
 ### 🗄️ Database & Backend Services
@@ -84,3 +84,61 @@
 </div>
 
 ---
+
+## 🎧 Recently Played
+
+<div align="center">
+
+  <img
+    src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5"
+    alt="Spotify recently played"
+  />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake.svg"
+      alt="GitHub contribution snake"
+    />
+
+  </picture>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=pizzanathea.pizzanathea"
+    alt="Profile views"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>

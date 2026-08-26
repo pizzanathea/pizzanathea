@@ -8,40 +8,40 @@ I'm a developer who enjoys building modern web and mobile applications, explorin
 
 ## 🚀 About Me
 
-- 💻 Focused on **Full-Stack Web Development**
-- 📱 Interested in **Mobile App Development**
-- ⚡ Building applications with **React, Next.js, Node.js, and React Native**
-- 🗄️ Working with both **SQL and NoSQL databases**
-- 🎨 Interested in building clean and modern user interfaces
+- 💻 Focused on Full-Stack Web Development
+- 📱 Interested in Mobile App Development
+- ⚡ Building projects with React, Next.js, Node.js, and React Native
+- 🗄️ Working with SQL and NoSQL databases
+- 🎨 Interested in clean and modern UI
 - 🧠 Always learning and experimenting with new technologies
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 📱 Mobile Development
+### Mobile
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 <p>
-  <strong>React Native · Expo</strong>
+  React Native · Expo
 </p>
 
-### 🗄️ Database
+### Database & Backend Services
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
@@ -49,15 +49,21 @@ I'm a developer who enjoys building modern web and mobile applications, explorin
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 📚 LibTech
 
-A digital library platform built for managing books, users, and library activities.
+Digital library platform for managing books, users, and library activities.
 
-**Tech Stack:**
-
+**Tech Stack:**  
 `Next.js` · `React` · `React Native` · `Expo` · `Node.js` · `Express.js` · `MySQL`
+
+### 🏋️ GymCare
+
+A web and mobile application focused on gym management and fitness-related features.
+
+**Tech Stack:**  
+`React` · `Vite` · `Node.js` · `Express.js` · `React Native` · `Expo`
 
 ---
 
@@ -66,13 +72,13 @@ A digital library platform built for managing books, users, and library activiti
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     height="150"
     alt="GitHub statistics"
   />
 
   <img
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&langs_count=6&theme=dracula"
     height="150"
     alt="Most used languages"
   />
@@ -86,7 +92,7 @@ A digital library platform built for managing books, users, and library activiti
 <div align="center">
 
   <img
-    src="https://spotify-recently-played-readme.vercel.app/api?count=5"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&count=5"
     alt="Spotify recently played"
   />
 
@@ -98,10 +104,22 @@ A digital library platform built for managing books, users, and library activiti
 
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg"
-    alt="Snake animation"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/pizzanathea/pizzanathea/output/github-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
 
 </div>
 
@@ -112,7 +130,7 @@ A digital library platform built for managing books, users, and library activiti
 <div align="center">
 
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza"
+    src="https://visitor-badge.laobi.icu/badge?page_id=pizzanathea.pizzanathea"
     alt="Profile views"
   />
 

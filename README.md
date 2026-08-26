@@ -1,37 +1,53 @@
-# Hi, I'm Raditya Bintang Wijaya 👋
+<div align="center">
+  <img
+    src="./assets/onepiece.gif"
+    width="100%"
+    alt="One Piece animated banner"
+  />
+</div>
 
-### Full-Stack Web & Mobile Developer
+<br>
 
-I'm a developer who enjoys building modern web and mobile applications, exploring new technologies, and turning ideas into real-world projects.
+<h1 align="center">Hi, I'm Raditya Bintang Wijaya 👋</h1>
+
+<h3 align="center">
+  Full-Stack Web & Mobile Developer
+</h3>
+
+<p align="center">
+  Building modern web & mobile applications with clean UI and practical solutions.
+</p>
+
+<br>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on Full-Stack Web Development
-- 📱 Interested in Mobile App Development
-- ⚡ Building projects with React, Next.js, Node.js, and React Native
-- 🗄️ Working with SQL and NoSQL databases
-- 🎨 Interested in clean and modern UI
-- 🧠 Always learning and experimenting with new technologies
+- 💻 Full-Stack Web Developer
+- 📱 Mobile Developer
+- ⚡ Experienced with React, Next.js, Node.js, and React Native
+- 🗄️ Working with SQL & NoSQL databases
+- 🎨 Interested in modern and clean UI
+- 🧠 Always learning and exploring new technologies
 
 ---
 
 ## 🧰 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Mobile
+### 📱 Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
@@ -41,7 +57,7 @@ I'm a developer who enjoys building modern web and mobile applications, explorin
   React Native · Expo
 </p>
 
-### Database & Backend Services
+### 🗄️ Database & Backend Services
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
@@ -53,16 +69,20 @@ I'm a developer who enjoys building modern web and mobile applications, explorin
 
 ### 📚 LibTech
 
-Digital library platform for managing books, users, and library activities.
+A digital library platform for managing books, users, and library activities.
 
-**Tech Stack:**  
+**Tech Stack**
+
 `Next.js` · `React` · `React Native` · `Expo` · `Node.js` · `Express.js` · `MySQL`
+
+---
 
 ### 🏋️ GymCare
 
 A web and mobile application focused on gym management and fitness-related features.
 
-**Tech Stack:**  
+**Tech Stack**
+
 `React` · `Vite` · `Node.js` · `Express.js` · `React Native` · `Expo`
 
 ---
@@ -73,13 +93,13 @@ A web and mobile application focused on gym management and fitness-related featu
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="150"
+    height="160"
     alt="GitHub statistics"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&langs_count=6&theme=dracula"
-    height="150"
+    height="160"
     alt="Most used languages"
   />
 

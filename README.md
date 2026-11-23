@@ -1,8 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=170&section=header&text=RADITYA%20BINTANG%20WIJAYA&fontSize=29&fontColor=FFFFFF&fontAlignY=48&desc=FULL-STACK%20WEB%20%26%20MOBILE%20DEVELOPER&descSize=11&descAlignY=70&descColor=AAAAAA" width="100%" />
+<img src="./assets/banner.gif" width="100%" />
 
 <br/>
+
+# RADITYA BINTANG WIJAYA
+
+**FULL-STACK WEB & MOBILE DEVELOPER**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=DESIGNING+AND+BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+REAL+PRODUCTS;CODE.+BUILD.+REFINE.+REPEAT." />
 
@@ -20,7 +24,7 @@
 
 I'm Raditya, a Full-Stack Web & Mobile Developer interested in building digital experiences that combine functionality, usability, and thoughtful design.
 
-Currently exploring modern web technologies, developing real-world applications, and continuously refining my craft.
+Currently exploring modern web technologies, developing real-world projects, and continuously refining my craft.
 
 > *Less noise. More intention. Better execution.*
 

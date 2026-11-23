@@ -2,77 +2,76 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=DIGITAL+CRAFTSMANSHIP.;CODE+IS+A+FORM+OF+EXPRESSION.;ALWAYS+BUILDING.+ALWAYS+EVOLVING." />
-
-<br/>
-
-# RADITYA BINTANG WIJAYA.
+# RADITYA BINTANG WIJAYA
 
 **FULL-STACK WEB & MOBILE DEVELOPER**
 
-<sub>INDONESIA &nbsp; / &nbsp; DIGITAL CREATOR &nbsp; / &nbsp; EST. 2024</sub>
+Building things for the web and beyond.
 
 <br/>
 
-[INSTAGRAM](https://instagram.com/rdtyabtng_) &nbsp; · &nbsp; [GITHUB](https://github.com/pizzanathea)
-
-<br/>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rdtyabtng_)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/pizzanathea)
 
 </div>
 
 ---
 
-## THE PHILOSOPHY
+### ABOUT
 
-**A developer with an eye for detail.**
+Hey, I'm Raditya.
 
-I'm Raditya, a Full-Stack Web & Mobile Developer interested in creating digital experiences that combine functionality, usability, and thoughtful design.
+I build web and mobile applications, experiment with different technologies, and enjoy turning ideas into functional products.
 
-Exploring technologies, building real-world applications, and constantly refining the way I create.
-
-*Less noise. More intention. Better execution.*
+Mostly working with JavaScript, React, Next.js, and React Native. Always learning something new along the way.
 
 ---
 
-## THE TOOLKIT
+### TECH STACK
 
-**01 — DEVELOPMENT**
+**WEB & MOBILE**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,php,laravel,reactnative,expo&theme=dark" />
 
-**02 — DATABASE & INFRASTRUCTURE**
+**DATABASE & TOOLS**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,vercel,netlify,powershell&theme=dark" />
 
-**03 — CREATIVE DIRECTION**
+**DESIGN & CREATIVE**
 
-`FIGMA` &nbsp; / &nbsp; `ADOBE ILLUSTRATOR` &nbsp; / &nbsp; `LIGHTROOM` &nbsp; / &nbsp; `CANVA` &nbsp; / &nbsp; `CAPCUT`
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
 
----
-
-## SELECTED WORKS
-
-*A collection of ideas, experiments, and things I've built.*
-
-| PROJECT | FIELD | STACK |
-|:---|:---|:---|
-| **LIBTECH** | Library Management | Next.js / MySQL / React Native |
-| **WEB PROJECTS** | Web Development | React / Next.js / Node.js |
-| **MOBILE PROJECTS** | Mobile Development | React Native / Expo |
+`LIGHTROOM` &nbsp; `CANVA` &nbsp; `CAPCUT`
 
 ---
 
-## GITHUB ARCHIVE
+### WHAT I'M BUILDING
+
+**LIBTECH**
+
+A library management system built with Next.js, MySQL, and React Native.
+
+**WEB DEVELOPMENT**
+
+Working on responsive interfaces, full-stack applications, and modern web experiences.
+
+**MOBILE DEVELOPMENT**
+
+Exploring mobile application development with React Native and Expo.
+
+---
+
+### GITHUB STATS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&hide_border=true&bg_color=00000000&title_color=AAAAAA&text_color=888888&icon_color=AAAAAA&ring_color=AAAAAA&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=pizzanathea&theme=transparent&hide_border=true&ring=AAAAAA&fire=AAAAAA&currStreakLabel=AAAAAA&sideLabels=888888&dates=777777&currStreakNum=FFFFFF&sideNums=AAAAAA" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pizzanathea&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&hide_border=true&bg_color=00000000&title_color=AAAAAA&text_color=888888" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
@@ -80,20 +79,8 @@ Exploring technologies, building real-world applications, and constantly refinin
 
 <div align="center">
 
-<br/>
+**THANKS FOR STOPPING BY.**
 
-**RADITYA BINTANG WIJAYA.**
-
-*INDEPENDENTLY CURIOUS. CONSTANTLY BUILDING.*
-
-<br/>
-
-`CODE` &nbsp; · &nbsp; `BUILD` &nbsp; · &nbsp; `LEARN` &nbsp; · &nbsp; `REPEAT`
-
-<br/>
-
-<sub>© 2026 — PERSONAL DIGITAL ARCHIVE</sub>
-
-<br/>
+[INSTAGRAM](https://instagram.com/rdtyabtng_) &nbsp; / &nbsp; [GITHUB](https://github.com/pizzanathea)
 
 </div>

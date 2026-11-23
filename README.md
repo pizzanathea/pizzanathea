@@ -1,20 +1,81 @@
-# 👋 Hi, I'm Raditya Bintang Wijaya
+ <div align="center">
 
-I'm a **Full-Stack Web & Mobile Developer** who enjoys building modern, responsive, and user-friendly applications.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=170&section=header&text=RADITYA%20BINTANG%20WIJAYA&fontSize=29&fontColor=FFFFFF&fontAlignY=48&desc=FULL-STACK%20WEB%20%26%20MOBILE%20DEVELOPER&descSize=11&descAlignY=70&descColor=AAAAAA" width="100%" />
 
-Currently, I'm focused on web development skills, building real-world projects, and exploring new technologies.
+<br/>
 
-> 💻 Code • 🚀 Build • 🧠 Learn • 🔥 Repeat
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=DESIGNING+AND+BUILDING+DIGITAL+EXPERIENCES;TURNING+IDEAS+INTO+REAL+PRODUCTS;CODE.+BUILD.+REFINE.+REPEAT." />
+
+<br/>
+
+[INSTAGRAM](https://instagram.com/rdtyabtng_) &nbsp; / &nbsp; [GITHUB](https://github.com/pizzanathea)
+
+</div>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdtyabtng_)
+### 01 / THE INTRODUCTION
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
+**A developer with an eye for detail.**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pizzanathea&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pizzanathea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pizzanathea&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm Raditya, a Full-Stack Web & Mobile Developer interested in building digital experiences that combine functionality, usability, and thoughtful design.
+
+Currently exploring modern web technologies, developing real-world applications, and continuously refining my craft.
+
+> *Less noise. More intention. Better execution.*
+
+---
+
+### 02 / SELECTED TECHNOLOGIES
+
+**DEVELOPMENT — WEB & MOBILE**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,php,laravel,reactnative,expo&theme=dark" />
+
+**DATABASE & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel,netlify,powershell,git,github&theme=dark" />
+
+**CREATIVE TOOLS**
+
+`FIGMA` &nbsp; `ADOBE ILLUSTRATOR` &nbsp; `LIGHTROOM` &nbsp; `CANVA` &nbsp; `CAPCUT`
+
+---
+
+### 03 / SELECTED WORKS
+
+**A collection of ideas, experiments, and things I've built.**
+
+| PROJECT | DESCRIPTION |
+|:---|:---|
+| **LIBTECH** | Library management system — Next.js, MySQL & React Native |
+| **WEB PROJECTS** | Modern web applications and experiments |
+| **MOBILE PROJECTS** | Mobile interfaces and application development |
+
+---
+
+### 04 / GITHUB ARCHIVE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pizzanathea&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=pizzanathea&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizzanathea&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=999999" />
+
+</div>
+
+---
+
+<div align="center">
+
+**RADITYA BINTANG WIJAYA**
+
+`CODE` &nbsp; · &nbsp; `BUILD` &nbsp; · &nbsp; `LEARN` &nbsp; · &nbsp; `REPEAT`
+
+<sub>INDEPENDENTLY CURIOUS. CONSTANTLY BUILDING.</sub>
+
+</div>
